@@ -1,6 +1,6 @@
 
 
-Gaia/
+Gaia/[英文](README.md)
 -------
 Gaia 一个简单的网关服务
 
